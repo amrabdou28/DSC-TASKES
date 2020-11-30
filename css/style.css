@@ -33,17 +33,14 @@
     text-align: left;
     font-style: italic;
     font-size: 25px;
-    margin-right: 20px;
     
 }
-.artical{
-    
-}
+
 .artical .artical-name{
    text-align: center;
    color: #0a0a0aad;
-    font-size: 64px;
-    margin-bottom: 50px;
+   font-size: 64px;
+   margin-bottom: 50px;
 }
 .artical .artical-div .artical-div-s{
     background-color: #F8F7FD;
