@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Playfair Display', serif;
+    background: #FFFFFD;
+    box-sizing: border-box;
+    line-height: 1.15;
+}
+.Design{
+    background-color: #e2bdbde1;
+    margin-top: 100px;
+}
+.Design .Design-info {
+    padding: 56px;
+    width: 60%;
+    float: left;
+    margin-top: 100px;
+    margin-bottom: 165px;
+    
+}
+.Design .Design-img {
+    float: right;
+    height: 30%;
+    width: 40%;
+
+}
+.Design .Design-info h1{
+    font-size: 37px;
+    font-weight: bold;
+    color: #ec411bc9;
+}
+.Design .Design-info p{
+    text-align: left;
+    font-style: italic;
+    font-size: 25px;
+    margin-right: 20px;
+    
+}
+.artical{
+    
+}
+.artical .artical-name{
+   text-align: center;
+   color: #0a0a0aad;
+    font-size: 64px;
+    margin-bottom: 50px;
+}
+.artical .artical-div .artical-div-s{
+    background-color: #F8F7FD;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 28%;
+    height: 395px;
+    padding: 1px 22px;
+    margin: 0px 22px;
+    text-align: left;
+    
+}
+.artical .artical-div .artical-div-s img{
+    display: block;
+    width: 99%;
+    border-radius: 5px;
+    height: 200px;
+}
+.artical .artical-div .artical-div-s p{
+    font-size: 20px;
+    color: #242222ab;
+    font-style: italic;
+    padding: 10px;
+    font-family: 'Playfair Display', serif;
+}
+
+}
+.artical .artical-div .artical-div-s figcaption ul {
+  width: 100%;
+  list-style-type: none;
+  float: right;
+}
+.artical .artical-div .artical-div-s figcaption ul li {
+  display: inline-block;
+  font-size: 16px;
+  padding: 10px 36px 0px 0px;
+}
